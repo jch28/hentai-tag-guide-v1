@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jch28.github.io/hentai-tag-guide-v1/sitemap.xml
